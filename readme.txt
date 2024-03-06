@@ -2,7 +2,7 @@ Estructura del repositorio:
 
 	- data_warehouse : directorio en donde se descarga, guarda y pre-procesan datos
 		- data_mart.ipynb : Descargar información de productos para almacenar dentro del directorio products
-		- products : Se almacena csv de productos en formato cdv
+		- products : Se almacena csv de productos en formato csv
 		- semantic_similarity : Se almacena información de similitud semántica en formato csv
 		- thumbnail_manager : Descargar las thumbnails usando la información de products para almacenar dentro del directorio: thumbnails.
 		- thumbnail_similarity : Se almacena información de similitud de las thumbnails en formato csv
